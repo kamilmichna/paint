@@ -1,0 +1,13 @@
+
+.Canvas{
+    border: 3px solid black;
+    height: 100%;
+    width: 100%;
+    grid-row: 1/8;
+    grid-column: 1/7;
+   
+
+}
+.Canvas:hover{
+    cursor: crosshair;
+}
